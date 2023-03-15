@@ -5,7 +5,7 @@
 - 👩🏻‍💻 Sou Estudante de programação
 - 🎓 Formando na | [SoulCode](https://soulcodeacademy.org/) 📚 
 - 💻 Apaixonada por tecnologia.
-- 👨🏻‍💻 Atualmente estudando (Angular 🅰️, Java ☕, SQL 🐬, Spring Boot 🍃).
+- 👨🏻‍💻 Atualmente estudando (Java ☕, SQL 🐬, Spring Boot 🍃).
 
 <a align="center">![Cajlon's github stats](https://github-readme-stats.vercel.app/api?username=joanebarros&show_icons=true&theme=red)</a>
 
